@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the master's thesis in preferred-citation."
+type: software
+title: "Coherent Optical System Model Used in Laser Microscopy"
+authors:
+  - family-names: "Vukušić"
+    given-names: "Josip"
+  - family-names: "Škaro"
+    given-names: "Ana"
+repository-code: "https://github.com/josip-vukusic/CoherentOpticalSystemModel"
+abstract: >-
+  MATLAB research implementation of a coherent optical system for laser
+  microscopy, combining Fresnel propagation, transparent-object phase
+  modeling, attenuation-grid measurements, and compressive sensing with
+  sparse reconstruction.
+keywords:
+  - computational optics
+  - laser microscopy
+  - compressive sensing
+  - phase imaging
+  - Fresnel diffraction
+  - MATLAB
+preferred-citation:
+  type: thesis
+  title: "Model koherentnog optičkog sustava korištenog u laserskoj mikroskopiji"
+  authors:
+    - family-names: "Vukušić"
+      given-names: "Josip"
+  year: 2017
+  month: 6
+  institution:
+    name: "University of Zagreb, Faculty of Electrical Engineering and Computing"
+    city: "Zagreb"
+    country: "HR"
+  languages:
+    - hr
+  notes: "Master's thesis (diplomski rad), no. 1469. Supervisor: Prof. Damir Seršić."
+  url: "https://github.com/josip-vukusic/CoherentOpticalSystemModel/blob/HEAD/docs/thesis/josip-vukusic-masters-thesis-2017.pdf"

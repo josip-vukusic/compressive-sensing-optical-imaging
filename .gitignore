@@ -1,0 +1,21 @@
+# Local MATLAB session output and editor backups
+/Phi.mat
+/centers_CS_ref_x.mat
+/centers_CS_ref_y.mat
+/center_x.mat
+/center_y.mat
+/object_mask_tensor.mat
+*.asv
+*.m~
+*.mex.lock
+/matlab_crash_dump.*
+/octave-workspace
+
+# Operating-system metadata
+.DS_Store
+._*
+Thumbs.db
+
+# Local editor settings
+.idea/
+.vscode/

@@ -1,0 +1,5 @@
+# Keep bundled solver sources out of the project's language statistics.
+dependencies/** linguist-vendored
+
+# Classify project .m files as MATLAB without changing their contents or EOLs.
+/*.m linguist-language=MATLAB
