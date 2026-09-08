@@ -100,7 +100,7 @@ The original research scripts and bundled solver are preserved. Current MATLAB c
 | [Results gallery](docs/results.md) | Original figures, the 32-to-64 reconstruction, historical timings, and limitations |
 | [Method walkthrough](docs/method.md) | Fresnel propagation, transparent-object modeling, grid sensing, and sparse recovery |
 | [MATLAB guide](docs/getting-started.md) | Requirements, commands, script map, and reproducibility notes |
-| [Research poster · PDF](docs/thesis/research-poster-2017.pdf) | One-page overview presented at FER's 2017 master's workshop |
+| [Research poster · image](docs/assets/research-poster-2017.png) | One-page overview presented at FER's 2017 master's workshop |
 | [Figure sources](docs/assets/README.md) | Provenance of the original images and research documents |
 
 The MATLAB experiments remain at the repository root, their supporting routines in `dependencies/`, and the research presentation in `docs/`.
