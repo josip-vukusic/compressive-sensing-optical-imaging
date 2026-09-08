@@ -41,7 +41,7 @@ y = \Phi x = \Phi\Psi s,
 $$
 
 $$
-\hat{s} = \underset{s}{\operatorname{arg\,min}}\;\|s\|_1
+\hat{s} = \underset{s}{\arg\min}\;\|s\|_1
 \quad\text{subject to}\quad \Phi\Psi s = y.
 $$
 

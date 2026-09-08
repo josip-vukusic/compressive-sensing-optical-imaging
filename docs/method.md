@@ -54,7 +54,7 @@ The dictionary Ψ represents the signal through transform coefficients s. When t
 [CS_reconstruction.m](../CS_reconstruction.m) calls [cs_sr07.m](../cs_sr07.m) separately for the two displacement components. The wrapper uses SeDuMi to solve the sparse-recovery problem:
 
 $$
-\hat{s}=\underset{s}{\operatorname{arg\,min}}\;\|s\|_1
+\hat{s}=\underset{s}{\arg\min}\;\|s\|_1
 \quad\text{subject to}\quad
 \|y-\Theta s\|_2\leq\varepsilon.
 $$
